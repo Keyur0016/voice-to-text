@@ -1,0 +1,30 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# PyCharm settings
+.idea/
+
+# Audio and conversation files (optional, if they are generated)
+audio/
+conversation_*.txt
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
